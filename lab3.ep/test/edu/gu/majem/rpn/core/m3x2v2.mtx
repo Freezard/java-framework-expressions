@@ -1,0 +1,13 @@
+# Result transpose m3x2v2.mtx is
+#
+#  1 3 5
+#  2 4 6
+# Result exp m3x2v2.mtx is
+#
+#  1   8
+#  27  64
+#  125 216
+
+1 2
+3 4
+5 6
